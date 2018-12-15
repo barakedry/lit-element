@@ -12,7 +12,7 @@
  * http://polymer.github.io/PATENTS.txt
  */
 import { TemplateResult } from '/node_modules/lit-html/lit-html.js';
-import { render } from '/node_modules/lit-html/lib/shady-render';
+import { render } from '/node_modules/lit-html/lib/shady-render.js';
 import { UpdatingElement } from './lib/updating-element.js';
 export * from './lib/updating-element.js';
 export * from './lib/decorators.js';

@@ -1,11 +1,6 @@
 /node_modules/
 /lib/
 
-#Compiler Output
-lit-element.js
-lit-element.js.map
-lit-element.d.ts
-
 /test/**/*.d.ts
 /test/**/*.js
 /test/**/*.js.map
